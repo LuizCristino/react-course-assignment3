@@ -1,0 +1,14 @@
+{
+	"emmet.includeLanguages": {
+		"javascript": "javascriptreact"
+	},
+	"emmet.syntaxProfiles": {
+		"javascript": "jsx"
+	},
+	"files.associations": {
+		"*.js": "javascriptreact"
+	},
+	"prettier.useTabs": true,
+	"editor.formatOnSave": true,
+	"emmet.triggerExpansionOnTab": true
+}
